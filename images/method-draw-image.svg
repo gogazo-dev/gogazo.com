@@ -1,0 +1,41 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="482" width="642" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="1" x="1" height="600" width="800"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <defs>
+   <path id="svg_10" d="m0,0z"/>
+   <style type="text/css">
+    <![CDATA[
+    @font-face { font-family:"Tw Cen MT";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str2 {stroke:#00C9DB;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#0C56FF;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#7509F5;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil1 {fill:#00C9DB}
+    .fil0 {fill:#0C56FF}
+    .fil2 {fill:#7509F5}
+    .fnt0 {font-weight:bold;font-size:1470.03px;font-family:'Tw Cen MT'}
+   ]]>
+   </style>
+  </defs>
+  <g stroke="null" id="svg_16">
+   <g stroke="null" transform="matrix(0.08884958353288203,0,0,0.11036963148370774,-43949.04905884908,-40909.01370880501) " id="svg_6">
+    <metadata stroke="null" transform="translate(11.254977226257324,9.060462951660156) translate(-483.9666748046875,-335.2389831542969) translate(-27.329925537109375,-5.820766091346741e-11) translate(-1079.5321044921875,-1118.5609130859375) translate(496972.75,9.094947017729282e-13) translate(1.8189894035458565e-12,373331.5) " id="svg_8"/>
+    <text stroke="null" id="svg_11" class="fil0 fnt0" y="373831.950567" x="497840.706272">Go</text>
+    <text stroke="null" id="svg_12" class="fil1 fnt0" y="373831.950567" x="499632.426272">gazo</text>
+    <g stroke="null" id="svg_7">
+     <path stroke="null" id="svg_13" d="m496018.506272,372739.480567c-58.87,359.34 -33.95,549.91 76.44,911.85c-21.13,-14.27 -226.72,-253.66 -314.34,-452.68c-62.08,-140.97 -138.75,-370.17 -138.32,-565.84c0.13,-60.43 -19.98,-163.78 8.31,-207.5l308.42,258.04l-308.42,-258.04c43.43,-36.65 170.87,-49.2 233.87,-59.49c203.88,-33.33 448.58,7.62 600.23,48.22c214.06,57.34 479.16,230.08 495.66,249.56c-387.59,-53.79 -588.14,-47.29 -961.85,75.88z" class="fil0 str0"/>
+     <path stroke="null" id="svg_14" d="m496743.226272,373969.540567c331.63,-150.38 476.36,-276.84 716.25,-569.49c-0.15,25.5 -85.26,329.36 -202.24,512.68c-82.84,129.85 -230.99,320.8 -394.03,429c-50.35,33.41 -125.18,107.48 -177.25,108.2l43.58,-399.76l-43.58,399.76c-54.59,-15.8 -135.73,-114.86 -179.24,-161.57c-140.84,-151.13 -242.53,-377.44 -292.88,-526.14c-71.06,-209.91 -74.41,-526.3 -67.36,-550.84c170.28,352.32 286.95,515.57 596.75,758.16z" class="fil2 str1"/>
+     <path stroke="null" id="svg_15" d="m497443.676272,372735.780567c-267.04,-247.56 -439.66,-332.05 -802.35,-439.95c23.57,-9.73 336.68,-48.88 550.98,-11.99c151.81,26.11 385.22,88.8 548.09,197.23c50.3,33.49 147.56,73.82 168.38,121.55l-385.46,114.57l385.46,-114.57c6.57,56.45 -53.36,169.61 -79.58,227.81c-84.83,188.37 -254.13,369.74 -371.74,473.72c-166.04,146.78 -456.46,272.35 -481.81,275.34c258.92,-293.38 364.28,-464.16 468.03,-843.71z" class="fil1 str2"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
